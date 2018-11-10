@@ -17,6 +17,8 @@ There are many kinds of AutoML. Some applications include:
 ## Research
 
 ### Neural Architecture Search
+- [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233) (Luo et al. 2018)
+- [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) (Tan et al. 2018)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2018)
 - [Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) (Liu et al. 2018)
 - [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548) (Real et al. 2018)
