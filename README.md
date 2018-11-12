@@ -12,6 +12,7 @@ There are many kinds of AutoML. Some applications include:
 - Hyperparameter optimization
 - Optimizer search
 - Data augmentation search
+- Learning to learn/Meta-learning
 - And many more
 
 ## Research
