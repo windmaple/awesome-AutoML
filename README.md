@@ -46,6 +46,9 @@ There are many kinds of AutoML. Some applications include:
 - [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763) (Wang et al. 2016)
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (Duan et al. 2016)
 
+### Hyperparameter optimization
+- [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/abs/1603.06560) (Li et al. 2016)
+
 ## Tools and projects
 - [Adanet: Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet): Tensorflow package for AdaNet
 - [Microsoft Neural Network Intelligence (NNI)](https://microsoft.github.io/nni/): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
@@ -57,9 +60,13 @@ There are many kinds of AutoML. Some applications include:
 - [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn): hyper-parameter optimization for sklearn
 - [Spearmint](https://github.com/HIPS/Spearmint): a software package to perform Bayesian optimization
 - [TOPT](http://automl.info/tpot/): one of the very first AutoML methods and open-source software packages 
+- [MOE](https://github.com/Yelp/MOE): a global, black box optimization engine for real world metric optimization by Yelp
+- [Hyperband](https://github.com/zygmuntz/hyperband): open source code for tuning hyperparams with Hyperband
 - [RoBO](https://github.com/automl/RoBO): a Robust Bayesian Optimization framework
 - [HpBandSter](https://github.com/automl/HpBandSter): a framework for distributed hyperparameter optimization
 - [HPOlib2](https://github.com/automl/HPOlib2): a library for hyperparameter optimization and black box optimization benchmarks
+- [Hyperopt](http://hyperopt.github.io/hyperopt/): distributed Asynchronous Hyperparameter Optimization in Python
+- [REMBO](https://github.com/ziyuw/rembo): Bayesian optimization in high-dimensions via random embedding
 
 ## Commercial products
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
