@@ -18,6 +18,7 @@ There are many kinds of AutoML. Some applications include:
 ## Research
 
 ### Neural Architecture Search
+- [Task-Driven Convolutional Recurrent Models of the Visual System](https://arxiv.org/abs/1807.00053) (Nayebi et al. 2018)
 - [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233) (Luo et al. 2018)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) (Tan et al. 2018)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2018)
