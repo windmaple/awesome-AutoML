@@ -17,6 +17,9 @@ There are many kinds of AutoML. Some applications include:
 
 ## Research
 
+### AutoML survey
+- [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
+
 ### Neural Architecture Search
 - [Task-Driven Convolutional Recurrent Models of the Visual System](https://arxiv.org/abs/1807.00053) (Nayebi et al. 2018)
 - [Neural Architecture Optimization](https://arxiv.org/abs/1808.07233) (Luo et al. 2018)
@@ -52,6 +55,11 @@ There are many kinds of AutoML. Some applications include:
 - [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) (Golovin et al. 2017)
 - [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/abs/1603.06560) (Li et al. 2016)
 
+### Automatic feature selection
+- [Deep Feature Synthesis: Towards Automating Data Science Endeavors](https://dai.lids.mit.edu/wp-content/uploads/2017/10/DSAA_DSM_2015.pdf) (Kanter et al. 2017)
+- [ExploreKit: Automatic Feature Generation and Selection](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf) (Katz et al. 2016)
+
+
 ## Tools and projects
 - [Adanet: Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet): Tensorflow package for AdaNet
 - [Microsoft Neural Network Intelligence (NNI)](https://microsoft.github.io/nni/): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
@@ -72,6 +80,8 @@ There are many kinds of AutoML. Some applications include:
 - [HPOlib2](https://github.com/automl/HPOlib2): a library for hyperparameter optimization and black box optimization benchmarks
 - [Hyperopt](http://hyperopt.github.io/hyperopt/): distributed Asynchronous Hyperparameter Optimization in Python
 - [REMBO](https://github.com/ziyuw/rembo): Bayesian optimization in high-dimensions via random embedding
+- [ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf): a framework forautomated feature generation
+- [FeatureTools](https://github.com/Featuretools/featuretools): An open source python framework for automated feature engineering
 
 ## Commercial products
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
