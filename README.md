@@ -82,6 +82,7 @@ There are many kinds of AutoML. Some applications include:
 - [REMBO](https://github.com/ziyuw/rembo): Bayesian optimization in high-dimensions via random embedding
 - [ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf): a framework forautomated feature generation
 - [FeatureTools](https://github.com/Featuretools/featuretools): An open source python framework for automated feature engineering
+- [PocketFlow](https://github.com/Tencent/PocketFlow): use AutoML to do model compression (open sourced by Tencent)
 
 ## Commercial products
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
