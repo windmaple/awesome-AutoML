@@ -65,6 +65,7 @@ There are many kinds of AutoML. Some applications include:
 - [Microsoft Neural Network Intelligence (NNI)](https://microsoft.github.io/nni/): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
 - [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html): Automatic Machine Learning by H2O.ai
 - [Kubernetes Katib](https://github.com/kubeflow/katib): hyperparameter Tuning on Kubernetes inspired by Google Vizier
+- [TransmogrifAI](https://transmogrif.ai/): automated machine learning for structured data by Salesforce
 - [Advisor](https://github.com/tobegit3hub/advisor): open-source implementation of Google Vizier for hyper parameters tuning
 - [AutoKeras](https://autokeras.com/): AutoML library by Texas A&M University using Bayesian optimization
 - [AutoSklearn](https://automl.github.io/auto-sklearn/stable/): an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
