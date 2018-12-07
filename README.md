@@ -82,6 +82,7 @@ There are many kinds of AutoML. Some applications include:
 - [TOPT](http://automl.info/tpot/): one of the very first AutoML methods and open-source software packages 
 - [MOE](https://github.com/Yelp/MOE): a global, black box optimization engine for real world metric optimization by Yelp
 - [Hyperband](https://github.com/zygmuntz/hyperband): open source code for tuning hyperparams with Hyperband
+- [Optuna](https://optuna.org/): define-by-run hypterparameter optimization framework
 - [RoBO](https://github.com/automl/RoBO): a Robust Bayesian Optimization framework
 - [HpBandSter](https://github.com/automl/HpBandSter): a framework for distributed hyperparameter optimization
 - [HPOlib2](https://github.com/automl/HPOlib2): a library for hyperparameter optimization and black box optimization benchmarks
