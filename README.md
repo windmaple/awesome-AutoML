@@ -116,6 +116,7 @@ There are many kinds of AutoML. Some applications include:
 - [Using Machine Learning to Explore Neural Network Architecture](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 
 ## Presentations
+- [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64) by Debadeepta Dey
 - [Neural Architecture Search](https://www.youtube.com/watch?v=sROrvtXnT7Q&t=116s) by Quoc Le
 
 ## Competitions, workshops and conferences
