@@ -126,3 +126,6 @@ There are many kinds of AutoML. Some applications include:
 ## Other curated resources on AutoML
 - [Literature on Neural Architecture Search](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 - [Awesome-AutoML-Papers](https://github.com/hibayesian/awesome-automl-papers)
+
+# Practical applications
+- [AutoML: Automating the design of machine learning models for autonomous driving](https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a) by Waymo
