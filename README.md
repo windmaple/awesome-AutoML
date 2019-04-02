@@ -21,7 +21,9 @@ There are many kinds of AutoML. Some applications include:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
-- [PROXYLESSNAS: DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE](https://arxiv.org/pdf/1812.00332.pdf)  (Cai et al. 2019)
+- [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://128.84.21.199/abs/1904.00420) (Guo et al. 2019)
+- [InstaNAS: Instance-aware Neural Architecture Search](https://arxiv.org/abs/1811.10201) (Cheng et al. 2019)
+- [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/pdf/1812.00332.pdf)  (Cai et al. 2019)
 - [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) (Ying et al. 2019)
 - [Evolutionary Neural AutoML for Deep Learning](https://arxiv.org/abs/1902.06827) (Liang et al. 2019)
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261) (Chu et al. 2019)
@@ -29,6 +31,7 @@ There are many kinds of AutoML. Some applications include:
 - [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926) (Xie et al. 2019)
 - [NeuNetS: An Automated Synthesis Engine for Neural Network Design](https://arxiv.org/abs/1901.06261) (Sood et al. 2019)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) (Fang et al. 2019)
+- [Understanding and Simplifying One-Shot Architecture Search](https://ai.google/research/pubs/pub47074) (Bender et al. 2018)
 - [IRLAS: Inverse Reinforcement Learning for Architecture Search](https://arxiv.org/abs/1812.05285) (Guo et al. 2018)
 - [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191) (Kandasamy et al. 2018)
 - [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639) (Cai et al. 2018)
