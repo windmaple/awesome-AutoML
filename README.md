@@ -94,7 +94,7 @@ There are many kinds of AutoML. Some applications include:
 - [AutoKeras](https://autokeras.com/): AutoML library by Texas A&M University using Bayesian optimization
 - [AutoSklearn](https://automl.github.io/auto-sklearn/stable/): an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 - [AutoWeka](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/): hyperparameter search for Weka
-- [auto-gs](https://github.com/minimaxir/automl-gs): Provide an input CSV and a target field to predict, generate a model + code to run it
+- [automl-gs](https://github.com/minimaxir/automl-gs): Provide an input CSV and a target field to predict, generate a model + code to run it
 - [SMAC](https://github.com/automl/SMAC3): Sequential Model-based Algorithm Configuration
 - [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn): hyper-parameter optimization for sklearn
 - [Spearmint](https://github.com/HIPS/Spearmint): a software package to perform Bayesian optimization
