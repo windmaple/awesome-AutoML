@@ -93,6 +93,7 @@ There are many kinds of AutoML. Some applications include:
 - [Advisor](https://github.com/tobegit3hub/advisor): open-source implementation of Google Vizier for hyper parameters tuning
 - [AutoKeras](https://autokeras.com/): AutoML library by Texas A&M University using Bayesian optimization
 - [AutoSklearn](https://automl.github.io/auto-sklearn/stable/): an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+- [Ludwig](https://github.com/uber/ludwig): a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code
 - [AutoWeka](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/): hyperparameter search for Weka
 - [automl-gs](https://github.com/minimaxir/automl-gs): Provide an input CSV and a target field to predict, generate a model + code to run it
 - [SMAC](https://github.com/automl/SMAC3): Sequential Model-based Algorithm Configuration
