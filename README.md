@@ -60,6 +60,7 @@ There are many kinds of AutoML. Some applications include:
 - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (Bello et al. 2017)
 
 ### AutoAugment
+- [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (Lim et al. 2019)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) (Cubuk et al. 2018)
 
 ### Learning to learn/Meta-learning
