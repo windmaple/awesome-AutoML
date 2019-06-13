@@ -18,6 +18,7 @@ There are many kinds of AutoML. Some applications include:
 ## Research
 
 ### AutoML survey
+- [The Evolved Transformer](https://arxiv.org/abs/1901.11117) (So et al. 2019)
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
