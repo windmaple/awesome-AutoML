@@ -63,6 +63,7 @@ There are many kinds of AutoML. Some applications include:
 - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (Bello et al. 2017)
 
 ### AutoAugment
+- [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172) (Zoph et al. 2019)
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (Lim et al. 2019)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) (Cubuk et al. 2018)
 
@@ -137,9 +138,13 @@ There are many kinds of AutoML. Some applications include:
 - [Using Machine Learning to Explore Neural Network Architecture](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 
 ## Presentations
+- [ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks](https://www.youtube.com/watch?v=g6HiuEnbwJE) by Evolving AI Lab
+- [Automatic Machine Learning](https://videoken.com/embed/5A4xbv5nd8c) by Frank Hutter and Joaquin Vanschoren
 - [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64) by Debadeepta Dey (MSR)
 - [Neural Architecture Search](https://www.youtube.com/watch?v=sROrvtXnT7Q&t=116s) by Quoc Le (Google Brain)
 
+## Books
+- [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
 ## Competitions, workshops and conferences
 - [NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning](http://automl.chalearn.org/)
 - [AutoML Workshop in ICML](https://www.ml4aad.org/workshops/)
