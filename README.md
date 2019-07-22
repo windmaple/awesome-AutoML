@@ -7,7 +7,7 @@ AutoML is the tools and technology to use machine learning methods and processes
 
 Recent work by Google Brain and many others have re-kindled the enthusiasm of AutoML and some companies have already [commercialized the technology](https://cloud.google.com/automl/). Thus, it has becomes one of the hosttest areas to look into. 
 
-There are many kinds of AutoML. Some applications include:
+There are many kinds of AutoML, including:
 - Neural network architecture search
 - Hyperparameter optimization
 - Optimizer search
