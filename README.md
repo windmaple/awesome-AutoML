@@ -81,6 +81,7 @@ There are many kinds of AutoML, including:
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) (Cubuk et al. 2018)
 
 ### Learning to learn/Meta-learning
+- [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215) (Song et al. 2019)
 - [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html) (Chelsea Finn PhD disseration 2018)
 - [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999) (OpenAI Reptile by Nichol et al. 2018)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (MAML by Finn et al. 2017)
