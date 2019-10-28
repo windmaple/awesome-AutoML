@@ -122,7 +122,7 @@ There are many kinds of AutoML, including:
 - [SMAC](https://github.com/automl/SMAC3): Sequential Model-based Algorithm Configuration
 - [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn): hyper-parameter optimization for sklearn
 - [Spearmint](https://github.com/HIPS/Spearmint): a software package to perform Bayesian optimization
-- [TOPT](http://automl.info/tpot/): one of the very first AutoML methods and open-source software packages 
+- [TPOT](http://automl.info/tpot/): one of the very first AutoML methods and open-source software packages 
 - [MOE](https://github.com/Yelp/MOE): a global, black box optimization engine for real world metric optimization by Yelp
 - [Hyperband](https://github.com/zygmuntz/hyperband): open source code for tuning hyperparams with Hyperband
 - [Optuna](https://optuna.org/): define-by-run hypterparameter optimization framework
