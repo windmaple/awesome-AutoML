@@ -103,6 +103,7 @@ There are many kinds of AutoML, including:
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
 ## Tools and projects
+- [Keras Tuner](https://github.com/keras-team/keras-tuner): Hyperparameter tuning for humans
 - [Torchmeta](https://github.com/tristandeleu/pytorch-meta): A Meta-Learning library for PyTorch
 - [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch): Automatic architecture search and hyperparameter optimization for PyTorch
