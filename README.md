@@ -31,6 +31,7 @@ There are many kinds of AutoML, including:
 - [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595?context=cs.LG) (Tan et al. 2019)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) (Tan et al. 2019)
 - [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/abs/1908.01314) (Chu et al. 2019) - [code](https://github.com/xiaomi-automl/MoGA)
+- [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) (Howard et al. 2019)
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) (Liu et al. 2019)
 - [DetNAS: Backbone Search for Object Detection](https://arxiv.org/abs/1903.10979) (Chen et al. 2019)
 - [Dynamic Distribution Pruning for Efficient Network Architecture Search](https://arxiv.org/abs/1905.13543) (Zheng et al. 2019)
