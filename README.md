@@ -49,6 +49,7 @@ There are many kinds of AutoML, including:
 - [NeuNetS: An Automated Synthesis Engine for Neural Network Design](https://arxiv.org/abs/1901.06261) (Sood et al. 2019)
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) (Fang et al. 2019)
 - [Understanding and Simplifying One-Shot Architecture Search](https://ai.google/research/pubs/pub47074) (Bender et al. 2018)
+- [Evolving Space-Time Neural Architectures for Videos](https://arxiv.org/abs/1811.10636) (Piergiovanni et al. 2018)
 - [IRLAS: Inverse Reinforcement Learning for Architecture Search](https://arxiv.org/abs/1812.05285) (Guo et al. 2018)
 - [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191) (Kandasamy et al. 2018)
 - [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639) (Cai et al. 2018)
