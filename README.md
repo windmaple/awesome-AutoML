@@ -143,7 +143,7 @@ There are many kinds of AutoML, including:
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
 
 ## Commercial products
-- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+- [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
 - [Google Cloud AutoML](https://cloud.google.com/automl/) 
 - [Google Cloud ML Hyperparameter Turning](https://cloud.google.com/ml-engine/docs/tensorflow/using-hyperparameter-tuning)
 - [Microsoft Azure Machine Learning Studio](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
