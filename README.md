@@ -24,6 +24,7 @@ There are many kinds of AutoML, including:
 
 ### Neural Architecture Search
 - [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142) (Sciuto et al. 2019)
+- [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595) (Tan et al. 2019)
 - [Multinomial Distribution Learning for Effective Neural Architecture Search](https://arxiv.org/abs/1905.07529) (Zheng et al. 2019)
 - [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://arxiv.org/abs/1907.05737) (Xu et al. 2019) - [code](https://github.com/yuhuixu1993/PC-DARTS)
 - [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420) (Guo et al. 2019)
