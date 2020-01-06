@@ -78,6 +78,9 @@ There are many kinds of AutoML, including:
 ### Neural Optimizatizer Search
 - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (Bello et al. 2017)
 
+### Activation function Search
+- [Searching for Activation Functions](https://arxiv.org/abs/1710.05941) (Ramachandran et al. 2017)
+
 ### AutoAugment
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) (Cubuk et al. 2019)
 - [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172) (Zoph et al. 2019)
