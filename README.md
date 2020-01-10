@@ -23,6 +23,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) (Du et al. 2019)
 - [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142) (Sciuto et al. 2019)
 - [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595) (Tan et al. 2019)
 - [Multinomial Distribution Learning for Effective Neural Architecture Search](https://arxiv.org/abs/1905.07529) (Zheng et al. 2019)
