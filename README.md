@@ -23,6 +23,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [Improving Keyword Spotting and Language Identification via Neural Architecture Search at Scale](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1916.html) (Mazzawi et al. 2019)
 - [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) (Du et al. 2019)
 - [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142) (Sciuto et al. 2019)
 - [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595) (Tan et al. 2019)
@@ -31,6 +32,9 @@ There are many kinds of AutoML, including:
 - [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420) (Guo et al. 2019)
 - [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/abs/1908.03835) (Gong et al. 2019)
 - [MixConv: Mixed Depthwise Convolutional Kernels](https://arxiv.org/abs/1907.09595?context=cs.LG) (Tan et al. 2019)
+- [Tiny Video Networks](https://arxiv.org/abs/1910.06961) (Piergiovanni et al. 2019)
+- [AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures](https://arxiv.org/abs/1905.13209) (Ryoo et al. 2019)
+- [EfficientNet-EdgeTPU: Creating Accelerator-Optimized Neural Networks with AutoML](https://ai.googleblog.com/2019/08/efficientnet-edgetpu-creating.html) (Gupta et al. 2019)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) (Tan et al. 2019)
 - [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/abs/1908.01314) (Chu et al. 2019) - [code](https://github.com/xiaomi-automl/MoGA)
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) (Howard et al. 2019)
@@ -83,6 +87,7 @@ There are many kinds of AutoML, including:
 - [Searching for Activation Functions](https://arxiv.org/abs/1710.05941) (Ramachandran et al. 2017)
 
 ### AutoAugment
+- [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779) (Park et al. 2019)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) (Cubuk et al. 2019)
 - [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172) (Zoph et al. 2019)
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (Lim et al. 2019)
