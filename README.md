@@ -119,6 +119,7 @@ There are many kinds of AutoML, including:
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
 ## Tools and projects
+- [AutoGluon](https://autogluon.mxnet.io/): AutoML Toolkit for Deep Learning
 - [hyperunity](https://github.com/gdikov/hypertunity): A toolset for black-box hyperparameter optimisation
 - [auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer): An automatic ML model optimization tool
 - [Keras Tuner](https://github.com/keras-team/keras-tuner): Hyperparameter tuning for humans
