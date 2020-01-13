@@ -23,6 +23,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://arxiv.org/abs/1904.07392) (Ghiasi et al. 2019)
 - [Improving Keyword Spotting and Language Identification via Neural Architecture Search at Scale](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1916.html) (Mazzawi et al. 2019)
 - [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) (Du et al. 2019)
 - [Evaluating the Search Phase of Neural Architecture Search](https://arxiv.org/abs/1902.08142) (Sciuto et al. 2019)
