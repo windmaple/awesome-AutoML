@@ -82,6 +82,9 @@ There are many kinds of AutoML, including:
 - [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) (Baker et al. 2016) 
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) (Zoph and Le. 2016)
 
+### Neural Architecture Search benchmark
+- [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) (Ying et al. 2019) - [code](https://github.com/google-research/nasbench)
+
 ### Neural Optimizatizer Search
 - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (Bello et al. 2017)
 
