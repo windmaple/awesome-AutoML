@@ -43,6 +43,7 @@ There are many kinds of AutoML, including:
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) (Howard et al. 2019)
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) (Liu et al. 2019)
 - [DetNAS: Backbone Search for Object Detection](https://arxiv.org/abs/1903.10979) (Chen et al. 2019)
+- [Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/pdf/1810.05749.pdf) (Zhang et al. 2019)
 - [Dynamic Distribution Pruning for Efficient Network Architecture Search](https://arxiv.org/abs/1905.13543) (Zheng et al. 2019)
 - [FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search](https://arxiv.org/abs/1907.01845) (Chu et al. 2019)
 - [SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://arxiv.org/abs/1905.12107) (Fedorov et al. 2019)
