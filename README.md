@@ -25,6 +25,7 @@ There are many kinds of AutoML, including:
 ### Neural Architecture Search
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384) (Real et al. 2020)
 - [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Such et al. 2019)
+- [CARS: Continuous Evolution for Efficient Neural Architecture Search](https://arxiv.org/abs/1909.04977) (Yang et al. 2019)
 - [Meta-Learning of Neural Architectures for Few-Shot Learning](https://arxiv.org/abs/1911.11090) (Elsken et al. 2019)
 - [Up to two billion times acceleration of scientific simulations with deep neural architecture search](https://arxiv.org/abs/2001.08055) (Kasim et al. 2019)
 - [Efficient Forward Architecture Search](https://www.microsoft.com/en-us/research/publication/efficient-forward-architecture-search/) (Hue et al. 2019)
