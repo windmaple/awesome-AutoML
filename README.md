@@ -171,6 +171,7 @@ There are many kinds of AutoML, including:
 - [FeatureTools](https://github.com/Featuretools/featuretools): An open source python framework for automated feature engineering
 - [PocketFlow](https://github.com/Tencent/PocketFlow): use AutoML to do model compression (open sourced by Tencent)
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
+- [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
 
 ## Commercial products
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
@@ -179,6 +180,7 @@ There are many kinds of AutoML, including:
 - [Microsoft Azure Machine Learning Studio](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
 - [comet.ml](https://www.comet.ml/)
 - [SigOpt](https://sigopt.com/)
+- [mljar.com](https://mljar.com)
 
 ## Blog posts
 - [A Conversation With Quoc Le: The AI Expert Behind Google AutoML](https://medium.com/syncedreview/a-conversation-with-quoc-le-the-ai-expert-behind-google-automl-73a7d0c9fe38)
