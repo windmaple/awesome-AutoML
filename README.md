@@ -150,14 +150,14 @@ There are many kinds of AutoML, including:
 - [Auto-PyTorch](https://github.com/automl/Auto-PyTorch): Automatic architecture search and hyperparameter optimization for PyTorch
 - [ATM: Auto Tune Models](https://hdi-project.github.io/ATM/): A multi-tenant, multi-data system for automated machine learning (model selection and tuning)
 - [Adanet: Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet): Tensorflow package for AdaNet
-- [Microsoft Neural Network Intelligence (NNI)](https://microsoft.github.io/nni/): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
+- [Microsoft Neural Network Intelligence (NNI)](https://github.com/microsoft/nni): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
 - [Dragonfly](https://github.com/dragonfly/dragonfly): An open source python library for scalable Bayesian optimisation
 - [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html): Automatic Machine Learning by H2O.ai
 - [Kubernetes Katib](https://github.com/kubeflow/katib): hyperparameter Tuning on Kubernetes inspired by Google Vizier
 - [TransmogrifAI](https://transmogrif.ai/): automated machine learning for structured data by Salesforce
 - [Advisor](https://github.com/tobegit3hub/advisor): open-source implementation of Google Vizier for hyper parameters tuning
 - [AutoKeras](https://autokeras.com/): AutoML library by Texas A&M University using Bayesian optimization
-- [AutoSklearn](https://automl.github.io/auto-sklearn/stable/): an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+- [AutoSklearn](https://automl.github.io/auto-sklearn/): an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 - [Ludwig](https://github.com/uber/ludwig): a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code
 - [AutoWeka](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/): hyperparameter search for Weka
 - [automl-gs](https://github.com/minimaxir/automl-gs): Provide an input CSV and a target field to predict, generate a model + code to run it
