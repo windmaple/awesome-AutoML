@@ -19,6 +19,7 @@ There are many kinds of AutoML, including:
 
 ### AutoML survey
 - [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions](https://arxiv.org/pdf/2006.02903.pdf) (Ren et al. 2020)
+- [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709) (He et al. 2019)
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392) (Wistuba et al. 2019)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2019)
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
