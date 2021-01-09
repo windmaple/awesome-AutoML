@@ -25,8 +25,8 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
-- [
-Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/abs/2010.15821) (Peng et al. 2020)
+- [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/pdf/2007.12147.pdf) (Xu et al. 2020)
+- [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/abs/2010.15821) (Peng et al. 2020)
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147) (Xu et al. 2020)
 - [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf) (Lin et al. 2020)
 - [FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://arxiv.org/abs/2004.05565) (Wan et al. 2020)
@@ -111,6 +111,7 @@ Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture
 - [Searching for Activation Functions](https://arxiv.org/abs/1710.05941) (Ramachandran et al. 2017)
 
 ### AutoAugment
+- [MetaAugment: Sample-Aware Data Augmentation Policy Learning](https://arxiv.org/abs/2012.12076) (Zhou et al. 2020)
 - [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779) (Park et al. 2019)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719) (Cubuk et al. 2019)
 - [Learning Data Augmentation Strategies for Object Detection](https://arxiv.org/abs/1906.11172) (Zoph et al. 2019)
