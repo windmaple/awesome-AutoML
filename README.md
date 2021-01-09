@@ -23,6 +23,7 @@ There are many kinds of AutoML, including:
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392) (Wistuba et al. 2019)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2019)
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
+- [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) (Yang et al. 2020)
 
 ### Neural Architecture Search
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/pdf/2007.12147.pdf) (Xu et al. 2020)
@@ -183,6 +184,7 @@ There are many kinds of AutoML, including:
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
 - [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
 - [Determined](https://github.com/determined-ai/determined): scalable deep learning training platform with integrated hyperparameter tuning support; includes Hyperband, PBT, and other search methods
+- [Hyperparameter Optimization of Machine Learning Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms): Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)
 
 ## Commercial products
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
