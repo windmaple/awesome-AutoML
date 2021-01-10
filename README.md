@@ -118,6 +118,10 @@ There are many kinds of AutoML, including:
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (Lim et al. 2019)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) (Cubuk et al. 2018)
 
+### AutoDropout
+- [AutoDropout: Learning Dropout Patterns to Regularize Deep Networks](https://arxiv.org/abs/2101.01761) (Pham et al. 2020)
+
+
 ### Learning to learn/Meta-learning
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215) (Song et al. 2019)
 - [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html) (Chelsea Finn PhD disseration 2018)
