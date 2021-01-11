@@ -134,6 +134,7 @@ There are many kinds of AutoML, including:
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (Duan et al. 2016)
 
 ### Hyperparameter optimization
+- [AutoNE: Hyperparameter Optimization for Massive Network Embedding](https://tadpole.github.io/files/2019_KDD_AutoNE.pdf) (Tu et al. 2019)
 - [Population Based Training of Neural Networks](https://arxiv.org/pdf/1711.09846.pdf) (Jaderberg et al. 2017)
 - [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) (Golovin et al. 2017)
 - [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/abs/1603.06560) (Li et al. 2016)
@@ -187,6 +188,7 @@ There are many kinds of AutoML, including:
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
 - [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
 - [Determined](https://github.com/determined-ai/determined): scalable deep learning training platform with integrated hyperparameter tuning support; includes Hyperband, PBT, and other search methods
+- [AutoGL](https://github.com/THUMNLab/AutoGL): an autoML framework & toolkit for machine learning on graphs)
 
 ## Commercial products
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
