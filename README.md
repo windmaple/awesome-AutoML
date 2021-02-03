@@ -25,6 +25,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [PyGlove: Symbolic Programming for Automated Machine Learning](https://proceedings.neurips.cc/paper/2020/file/012a91467f210472fab4e11359bbfef6-Paper.pdf) (Peng et al. 2021)
 - [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://arxiv.org/pdf/2009.01027) (Chu et al. 2021)
 - [NAS-DIP: Learning Deep Image Prior with Neural Architecture Search](https://arxiv.org/abs/2008.11713) (Chen et al. 2020)
 - [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification](https://arxiv.org/abs/2007.12034) (Wang et al. 2020)
