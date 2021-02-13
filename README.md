@@ -158,6 +158,7 @@ There are many kinds of AutoML, including:
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): an AutoML library written in Scala that runs on top of Apache Spark
 - [Model Search](https://github.com/google/model_search): a framework that implements AutoML algorithms for model architecture search at scale
 - [AutoGluon](https://autogluon.mxnet.io/): AutoML Toolkit for Deep Learning
+- [FLAML](https://github.com/microsoft/FLAML): Fast and Lightweight AutoML
 - [hyperunity](https://github.com/gdikov/hypertunity): A toolset for black-box hyperparameter optimisation
 - [auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer): An automatic ML model optimization tool
 - [Keras Tuner](https://github.com/keras-team/keras-tuner): Hyperparameter tuning for humans
