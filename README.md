@@ -228,6 +228,7 @@ There are many kinds of AutoML, including:
 ## Books
 - [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
 - [Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - [repo](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+- [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action)- A book that introduces autoML with AutoKreas and Keras Tuner.
 ## Competitions, workshops and conferences
 - [NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning](http://automl.chalearn.org/)
 - [AutoML Workshop in ICML](https://www.ml4aad.org/workshops/)
