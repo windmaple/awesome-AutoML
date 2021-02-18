@@ -18,7 +18,9 @@ There are many kinds of AutoML, including:
 ## Research
 
 ### AutoML survey
+- [Neural architecture search: a survey 深度神经网络结构搜索综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202005240000001) (Tang et al. 2021)
 - [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions](https://arxiv.org/pdf/2006.02903.pdf) (Ren et al. 2020)
+- [Hyperparameter Optimization of Machine Learning Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms): Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)
 - [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709) (He et al. 2019)
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392) (Wistuba et al. 2019)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2019)
@@ -26,6 +28,12 @@ There are many kinds of AutoML, including:
 - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) (Yang et al. 2020)
 
 ### Neural Architecture Search
+- [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2021)
+- [Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition](https://arxiv.org/abs/2102.01063) (Lin et al. 2021)
+- [PyGlove: Symbolic Programming for Automated Machine Learning](https://proceedings.neurips.cc/paper/2020/file/012a91467f210472fab4e11359bbfef6-Paper.pdf) (Peng et al. 2021)
+- [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://arxiv.org/pdf/2009.01027) (Chu et al. 2021)
+- [NAS-DIP: Learning Deep Image Prior with Neural Architecture Search](https://arxiv.org/abs/2008.11713) (Chen et al. 2020)
+- [AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification](https://arxiv.org/abs/2007.12034) (Wang et al. 2020)
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/pdf/2007.12147.pdf) (Xu et al. 2020)
 - [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/abs/2010.15821) (Peng et al. 2020)
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147) (Xu et al. 2020)
@@ -119,6 +127,10 @@ There are many kinds of AutoML, including:
 - [Fast AutoAugment](https://arxiv.org/abs/1905.00397) (Lim et al. 2019)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501) (Cubuk et al. 2018)
 
+### AutoDropout
+- [AutoDropout: Learning Dropout Patterns to Regularize Deep Networks](https://arxiv.org/abs/2101.01761) (Pham et al. 2020)
+
+
 ### Learning to learn/Meta-learning
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215) (Song et al. 2019)
 - [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html) (Chelsea Finn PhD disseration 2018)
@@ -131,6 +143,7 @@ There are many kinds of AutoML, including:
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (Duan et al. 2016)
 
 ### Hyperparameter optimization
+- [AutoNE: Hyperparameter Optimization for Massive Network Embedding](https://tadpole.github.io/files/2019_KDD_AutoNE.pdf) (Tu et al. 2019)
 - [Population Based Training of Neural Networks](https://arxiv.org/pdf/1711.09846.pdf) (Jaderberg et al. 2017)
 - [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) (Golovin et al. 2017)
 - [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/abs/1603.06560) (Li et al. 2016)
@@ -146,7 +159,9 @@ There are many kinds of AutoML, including:
 
 ## Tools and projects
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): an AutoML library written in Scala that runs on top of Apache Spark
+- [Model Search](https://github.com/google/model_search): a framework that implements AutoML algorithms for model architecture search at scale
 - [AutoGluon](https://autogluon.mxnet.io/): AutoML Toolkit for Deep Learning
+- [FLAML](https://github.com/microsoft/FLAML): Fast and Lightweight AutoML
 - [hyperunity](https://github.com/gdikov/hypertunity): A toolset for black-box hyperparameter optimisation
 - [auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer): An automatic ML model optimization tool
 - [Keras Tuner](https://github.com/keras-team/keras-tuner): Hyperparameter tuning for humans
@@ -184,7 +199,7 @@ There are many kinds of AutoML, including:
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
 - [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
 - [Determined](https://github.com/determined-ai/determined): scalable deep learning training platform with integrated hyperparameter tuning support; includes Hyperband, PBT, and other search methods
-- [Hyperparameter Optimization of Machine Learning Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms): Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear)
+- [AutoGL](https://github.com/THUMNLab/AutoGL): an autoML framework & toolkit for machine learning on graphs)
 
 ## Commercial products
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
@@ -215,6 +230,7 @@ There are many kinds of AutoML, including:
 ## Books
 - [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
 - [Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - [repo](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+- [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action)- A book that introduces autoML with AutoKreas and Keras Tuner.
 ## Competitions, workshops and conferences
 - [NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning](http://automl.chalearn.org/)
 - [AutoML Workshop in ICML](https://www.ml4aad.org/workshops/)
