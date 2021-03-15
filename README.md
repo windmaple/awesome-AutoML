@@ -28,6 +28,7 @@ There are many kinds of AutoML, including:
 - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) (Yang et al. 2020)
 
 ### Neural Architecture Search
+- [ReNAS:Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/abs/1910.01523) (Xu et al. 2021)
 - [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2021)
 - [Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition](https://arxiv.org/abs/2102.01063) (Lin et al. 2021)
 - [PyGlove: Symbolic Programming for Automated Machine Learning](https://proceedings.neurips.cc/paper/2020/file/012a91467f210472fab4e11359bbfef6-Paper.pdf) (Peng et al. 2021)
