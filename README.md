@@ -28,6 +28,7 @@ There are many kinds of AutoML, including:
 - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) (Yang et al. 2020)
 
 ### Neural Architecture Search
+- [AutoSpace: Neural Architecture Search with Less Human Interference](https://arxiv.org/pdf/2103.11833.pdf) (Zhou et al. 2021)
 - [ReNAS:Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/abs/1910.01523) (Xu et al. 2021)
 - [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2021)
 - [Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition](https://arxiv.org/abs/2102.01063) (Lin et al. 2021)
