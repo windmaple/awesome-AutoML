@@ -215,6 +215,7 @@ There are many kinds of AutoML, including:
 
 ## Blog posts
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
+- [How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e)
 - [A Conversation With Quoc Le: The AI Expert Behind Google AutoML](https://medium.com/syncedreview/a-conversation-with-quoc-le-the-ai-expert-behind-google-automl-73a7d0c9fe38)
 - [fast.ai: An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/12/auto-ml-1/)
 - [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
@@ -234,6 +235,7 @@ There are many kinds of AutoML, including:
 - [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
 - [Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - [repo](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 - [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action)- A book that introduces autoML with AutoKreas and Keras Tuner.
+- 
 ## Competitions, workshops and conferences
 - [NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning](http://automl.chalearn.org/)
 - [AutoML Workshop in ICML](https://www.ml4aad.org/workshops/)
