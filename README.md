@@ -164,6 +164,7 @@ There are many kinds of AutoML, including:
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
 ## Tools and projects
+- [Vegas](https://github.com/huawei-noah/vega): an AutoML algorithm tool chain by Huawei Noah's Arb Lab
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): an AutoML library written in Scala that runs on top of Apache Spark
 - [Model Search](https://github.com/google/model_search): a framework that implements AutoML algorithms for model architecture search at scale
 - [AutoGluon](https://autogluon.mxnet.io/): AutoML Toolkit for Deep Learning
