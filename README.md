@@ -206,6 +206,7 @@ There are many kinds of AutoML, including:
 - [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
 - [Determined](https://github.com/determined-ai/determined): scalable deep learning training platform with integrated hyperparameter tuning support; includes Hyperband, PBT, and other search methods
 - [AutoGL](https://github.com/THUMNLab/AutoGL): an autoML framework & toolkit for machine learning on graphs)
+- [FEDOT](https://github.com/nccr-itmo/FEDOT): AutoML framework for the design of composite pipelines
 - [NASGym](https://github.com/gomerudo/nas-env): A proof-of-concept OpenAI Gym environment for Neural Architecture Search (NAS)
 
 ## Commercial products
