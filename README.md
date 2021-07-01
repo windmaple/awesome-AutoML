@@ -235,6 +235,7 @@ There are many kinds of AutoML, including:
 - [Automatic Machine Learning](https://videoken.com/embed/5A4xbv5nd8c) by Frank Hutter and Joaquin Vanschoren
 - [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64) by Debadeepta Dey (MSR)
 - [Neural Architecture Search](https://www.youtube.com/watch?v=sROrvtXnT7Q&t=116s) by Quoc Le (Google Brain)
+- [AutoML Showdown: Google vs Amazon vs Microsoft](https://www.youtube.com/watch?v=qiDrD8omVVg) by Roboflow
 
 ## Books
 - [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
