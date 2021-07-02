@@ -199,8 +199,9 @@ There are many kinds of AutoML, including:
 - [HPOlib2](https://github.com/automl/HPOlib2): a library for hyperparameter optimization and black box optimization benchmarks
 - [Hyperopt](http://hyperopt.github.io/hyperopt/): distributed Asynchronous Hyperparameter Optimization in Python
 - [REMBO](https://github.com/ziyuw/rembo): Bayesian optimization in high-dimensions via random embedding
-- [ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf): a framework forautomated feature generation
+- [ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf): a framework for automated feature generation
 - [FeatureTools](https://github.com/Featuretools/featuretools): An open source python framework for automated feature engineering
+- [EvalML](https://github.com/alteryx/evalml): An open source python library for AutoML
 - [PocketFlow](https://github.com/Tencent/PocketFlow): use AutoML to do model compression (open sourced by Tencent)
 - [DEvol (DeepEvolution)](https://github.com/joeddav/devol): a basic proof of concept for genetic architecture search in Keras
 - [mljar-supervised](https://github.com/mljar/mljar-supervised): AutoML with explanations and markdown reports
