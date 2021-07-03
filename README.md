@@ -15,7 +15,7 @@ There are many kinds of AutoML, including:
 - Learning to learn/Meta-learning
 - And many more
 
-## Research
+## Research papers
 
 ### AutoML survey
 - [Neural architecture search: a survey 深度神经网络结构搜索综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202005240000001) (Tang et al. 2021)
@@ -208,7 +208,8 @@ There are many kinds of AutoML, including:
 - [Determined](https://github.com/determined-ai/determined): scalable deep learning training platform with integrated hyperparameter tuning support; includes Hyperband, PBT, and other search methods
 - [AutoGL](https://github.com/THUMNLab/AutoGL): an autoML framework & toolkit for machine learning on graphs)
 - [FEDOT](https://github.com/nccr-itmo/FEDOT): AutoML framework for the design of composite pipelines
-- [NASGym](https://github.com/gomerudo/nas-env): A proof-of-concept OpenAI Gym environment for Neural Architecture Search (NAS)
+- [NASGym](https://github.com/gomerudo/nas-env): a proof-of-concept OpenAI Gym environment for Neural Architecture Search (NAS)
+- [Archai](https://github.com/microsoft/archai): a platform for Neural Network Search (NAS) that allows you to generate efficient deep networks for your applications
 
 ## Commercial products
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
