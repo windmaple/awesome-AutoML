@@ -45,6 +45,7 @@ There are many kinds of AutoML, including:
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147) (Xu et al. 2020)
 - [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf) (Lin et al. 2020)
 - [FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://arxiv.org/abs/2004.05565) (Wan et al. 2020)
+- [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525v3) (Xiong et al. 2020)
 - [Neural Architecture Transfer](https://arxiv.org/abs/2005.05859v1) (Lu et al. 2020)
 - [When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks](https://arxiv.org/abs/1911.10695) (Guo et al. 2020)
 - [Semi-Supervised Neural Architecture Search](https://arxiv.org/abs/2002.10389) (Luo et al. 2020)
