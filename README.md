@@ -27,6 +27,8 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [AlphaNet: Improved Training of Supernets with Alpha-Divergence](https://arxiv.org/pdf/2102.07954.pdf) (Wang et al. 2021)
+- [AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling](https://arxiv.org/pdf/2011.09011.pdf) (Wang et al. 2021)
 - [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/abs/2107.00651) (Chen et al. 2021)
 - [ModularNAS: Towards Modularized and Reusable Neural Architecture Search](https://proceedings.mlsys.org/paper/2021/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf) (Lin et al. 2021)
 - [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/abs/2103.12424) (Li et al. 2021)
