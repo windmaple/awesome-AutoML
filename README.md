@@ -141,7 +141,6 @@ There are many kinds of AutoML, including:
 ### AutoDropout
 - [AutoDropout: Learning Dropout Patterns to Regularize Deep Networks](https://arxiv.org/abs/2101.01761) (Pham et al. 2020)
 
-
 ### Learning to learn/Meta-learning
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215) (Song et al. 2019)
 - [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html) (Chelsea Finn PhD disseration 2018)
@@ -169,6 +168,7 @@ There are many kinds of AutoML, including:
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
 ## Tools and projects
+- [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
 - [Vegas](https://github.com/huawei-noah/vega): an AutoML algorithm tool chain by Huawei Noah's Arb Lab
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): an AutoML library written in Scala that runs on top of Apache Spark
 - [Model Search](https://github.com/google/model_search): a framework that implements AutoML algorithms for model architecture search at scale
