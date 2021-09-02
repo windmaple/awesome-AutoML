@@ -21,6 +21,7 @@ There are many kinds of AutoML, including:
 - [Neural architecture search: a survey 深度神经网络结构搜索综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202005240000001) (Tang et al. 2021)
 - [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions](https://arxiv.org/pdf/2006.02903.pdf) (Ren et al. 2020)
 - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) (Yang et al. 2020)
+- [Benchmark and Survey of Automated Machine Learning Frameworks](https://arxiv.org/abs/1904.12054) (Zoller et al. 2019)
 - [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709) (He et al. 2019)
 - [A Survey on Neural Architecture Search](https://arxiv.org/abs/1905.01392) (Wistuba et al. 2019)
 - [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377) (Elsken et al. 2019)
