@@ -245,6 +245,7 @@ There are many kinds of AutoML, including:
 - [AutoML for large scale image classification and object detection](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html)
 - [Using Machine Learning to Discover Neural Network Optimizers](https://ai.googleblog.com/2018/03/using-machine-learning-to-discover.html)
 - [Using Machine Learning to Explore Neural Network Architecture](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+- [Machine Learning Hyperparameter Optimization with Argo](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
 
 ## Presentations
 - [ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks](https://www.youtube.com/watch?v=g6HiuEnbwJE) by Evolving AI Lab
