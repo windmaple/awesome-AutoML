@@ -237,6 +237,7 @@ There are many kinds of AutoML, including:
 - [mljar.com](https://mljar.com)
 
 ## Blog posts
+- [Improved On-Device ML on Pixel 6, with Neural Architecture Search](https://ai.googleblog.com/2021/11/improved-on-device-ml-on-pixel-6-with.html)
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
 - [How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e)
 - [A Conversation With Quoc Le: The AI Expert Behind Google AutoML](https://medium.com/syncedreview/a-conversation-with-quoc-le-the-ai-expert-behind-google-automl-73a7d0c9fe38)
