@@ -223,6 +223,7 @@ There are many kinds of AutoML, including:
 - [NASGym](https://github.com/gomerudo/nas-env): a proof-of-concept OpenAI Gym environment for Neural Architecture Search (NAS)
 - [Archai](https://github.com/microsoft/archai): a platform for Neural Network Search (NAS) that allows you to generate efficient deep networks for your applications
 - [autoBOT](https://github.com/SkBlaz/autobot): An autoML system for automated text classification exploiting representation evolution
+- [autoai](https://github.com/blobcity/autoai): A framework to find the best performing AI/ML model for any AI problem
  
 ## Benchmarks
 - [OpenML AutoML benchmarking framework](https://openml.github.io/automlbenchmark/automl_overview.html)
