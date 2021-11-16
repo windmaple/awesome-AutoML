@@ -30,11 +30,13 @@ There are many kinds of AutoML, including:
 
 ### Neural Architecture Search
 - [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/abs/2105.14444) (Xu et al. 2021)
+- [Accelerating Neural Architecture Search for Natural Language Processing with Knowledge Distillation and Earth Mover's Distance](https://dl.acm.org/doi/abs/10.1145/3404835.3463017) (Li et al. 2021)
 - [AlphaNet: Improved Training of Supernets with Alpha-Divergence](https://arxiv.org/pdf/2102.07954.pdf) (Wang et al. 2021)
 - [AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling](https://arxiv.org/pdf/2011.09011.pdf) (Wang et al. 2021)
 - [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/abs/2107.00651) (Chen et al. 2021)
 - [ModularNAS: Towards Modularized and Reusable Neural Architecture Search](https://proceedings.mlsys.org/paper/2021/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf) (Lin et al. 2021)
 - [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/abs/2103.12424) (Li et al. 2021)
+- [AutoReCon: Neural Architecture Search-based Reconstruction for Data-free Compression](https://arxiv.org/abs/2105.12151) (Zhu et al. 2021)
 - [AutoSpace: Neural Architecture Search with Less Human Interference](https://arxiv.org/pdf/2103.11833.pdf) (Zhou et al. 2021)
 - [ReNAS:Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/abs/1910.01523) (Xu et al. 2021)
 - [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2021)
@@ -61,6 +63,7 @@ There are many kinds of AutoML, including:
 - [Meta-Learning of Neural Architectures for Few-Shot Learning](https://arxiv.org/abs/1911.11090) (Elsken et al. 2019)
 - [Up to two billion times acceleration of scientific simulations with deep neural architecture search](https://arxiv.org/abs/2001.08055) (Kasim et al. 2019)
 - [Efficient Forward Architecture Search](https://www.microsoft.com/en-us/research/publication/efficient-forward-architecture-search/) (Hue et al. 2019)
+- [Blockwisely Supervised Neural Architecture Search with Knowledge Distillation](https://arxiv.org/abs/1911.13053) (Li et al. 2019)
 - [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://arxiv.org/abs/1904.07392) (Ghiasi et al. 2019)
 - [Improving Keyword Spotting and Language Identification via Neural Architecture Search at Scale](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1916.html) (Mazzawi et al. 2019)
 - [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) (Du et al. 2019)
