@@ -239,6 +239,7 @@ There are many kinds of AutoML, including:
 - [OpenML AutoML benchmarking framework](https://openml.github.io/automlbenchmark/automl_overview.html)
 
 ## Commercial products
+- [Syne Tune](https://github.com/awslabs/syne-tune): state-of-the-art distributed hyperparameter optimizers (HPO)
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
 - [Google Cloud AutoML](https://cloud.google.com/automl/) 
 - [Google Cloud ML Hyperparameter Turning](https://cloud.google.com/ml-engine/docs/tensorflow/using-hyperparameter-tuning)
