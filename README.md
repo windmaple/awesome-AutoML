@@ -201,6 +201,7 @@ There are many kinds of AutoML, including:
 - [Dragonfly](https://github.com/dragonfly/dragonfly): An open source python library for scalable Bayesian optimisation
 - [H2O AutoML](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html): Automatic Machine Learning by H2O.ai
 - [Kubernetes Katib](https://github.com/kubeflow/katib): hyperparameter Tuning on Kubernetes inspired by Google Vizier
+- [Ray Tune](https://docs.ray.io/en/master/tune/index.html): Scalable Hyperparameter Tuning¶
 - [TransmogrifAI](https://transmogrif.ai/): automated machine learning for structured data by Salesforce
 - [Advisor](https://github.com/tobegit3hub/advisor): open-source implementation of Google Vizier for hyper parameters tuning
 - [AutoKeras](https://autokeras.com/): AutoML library by Texas A&M University using Bayesian optimization
@@ -246,6 +247,7 @@ There are many kinds of AutoML, including:
 - [comet.ml](https://www.comet.ml/)
 - [SigOpt](https://sigopt.com/)
 - [mljar.com](https://mljar.com)
+- [Weights and Biases](https://wandb.ai/site/sweeps)
 
 ## Blog posts
 - [Improved On-Device ML on Pixel 6, with Neural Architecture Search](https://ai.googleblog.com/2021/11/improved-on-device-ml-on-pixel-6-with.html)
