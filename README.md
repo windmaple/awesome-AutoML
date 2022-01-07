@@ -182,6 +182,9 @@ There are many kinds of AutoML, including:
 ### Model compression
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
+### Bandits
+- [AutoML for Contextual Bandits](https://arxiv.org/abs/1909.03212) (Dutta et al. 2019)
+
 ## Tools and projects
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
