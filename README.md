@@ -30,6 +30,7 @@ There are many kinds of AutoML, including:
 
 ### Neural Architecture Search
 - [KNAS: Green Neural Architecture Search](https://arxiv.org/abs/2111.13293) (Xu et al. 2021)
+- [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668) (So et al. 2021)
 - [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/abs/2105.14444) (Xu et al. 2021)
 - [Accelerating Neural Architecture Search for Natural Language Processing with Knowledge Distillation and Earth Mover's Distance](https://dl.acm.org/doi/abs/10.1145/3404835.3463017) (Li et al. 2021)
 - [AlphaNet: Improved Training of Supernets with Alpha-Divergence](https://arxiv.org/pdf/2102.07954.pdf) (Wang et al. 2021)
