@@ -29,6 +29,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
 - [KNAS: Green Neural Architecture Search](https://arxiv.org/abs/2111.13293) (Xu et al. 2021)
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668) (So et al. 2021)
 - [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/abs/2105.14444) (Xu et al. 2021)
@@ -53,10 +54,12 @@ There are many kinds of AutoML, including:
 - [Efficient Neural Architecture Search via Proximal Iterations](https://arxiv.org/abs/1905.13577) (Yao et al. 2020)
 - [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/abs/2010.15821) (Peng et al. 2020)
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147) (Xu et al. 2020)
+- [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509) (Wang et al. 2020)
 - [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf) (Lin et al. 2020)
 - [FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://arxiv.org/abs/2004.05565) (Wan et al. 2020)
 - [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525v3) (Xiong et al. 2020)
 - [Neural Architecture Transfer](https://arxiv.org/abs/2005.05859v1) (Lu et al. 2020)
+- [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509) (Wang et al. 2020)
 - [When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks](https://arxiv.org/abs/1911.10695) (Guo et al. 2020)
 - [Semi-Supervised Neural Architecture Search](https://arxiv.org/abs/2002.10389) (Luo et al. 2020)
 - [MixPath: A Unified Approach for One-shot Neural Architecture Search](https://arxiv.org/abs/2001.05887) (Chu et al. 2020)
@@ -182,6 +185,9 @@ There are many kinds of AutoML, including:
 
 ### Model compression
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
+
+### Quantization
+- [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](https://arxiv.org/abs/1811.08886) (Wang et al. 2018)
 
 ### Bandits
 - [AutoML for Contextual Bandits](https://arxiv.org/abs/1909.03212) (Dutta et al. 2019)
