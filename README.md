@@ -186,6 +186,9 @@ There are many kinds of AutoML, including:
 ### Bandits
 - [AutoML for Contextual Bandits](https://arxiv.org/abs/1909.03212) (Dutta et al. 2019)
 
+### Reinforcement learning
+- [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916) (Parker-Holder et al. 2022)
+
 ## Tools and projects
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
