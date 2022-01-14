@@ -38,6 +38,7 @@ There are many kinds of AutoML, including:
 - [AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling](https://arxiv.org/pdf/2011.09011.pdf) (Wang et al. 2021)
 - [Speedy Performance Estimation for Neural Architecture Search](https://arxiv.org/abs/2006.04492) (Ru et al. 2021)
 - [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/abs/2107.00651) (Chen et al. 2021)
+- [NAAS: Neural Accelerator Architecture Search](https://arxiv.org/pdf/2105.13258.pdf) (Lin et al. 2021)
 - [ModularNAS: Towards Modularized and Reusable Neural Architecture Search](https://proceedings.mlsys.org/paper/2021/file/8f14e45fceea167a5a36dedd4bea2543-Paper.pdf) (Lin et al. 2021)
 - [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/abs/2103.12424) (Li et al. 2021)
 - [AutoReCon: Neural Architecture Search-based Reconstruction for Data-free Compression](https://arxiv.org/abs/2105.12151) (Zhu et al. 2021)
