@@ -196,7 +196,12 @@ There are many kinds of AutoML, including:
 ### Reinforcement learning
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916) (Parker-Holder et al. 2022)
 
+### Graph neural network
+- [AutoGL: A Library for Automated Graph Learning](https://arxiv.org/abs/2104.04987) (Guan et al. 2021)
+- [AutoGraph: Automated Graph Neural Network](https://arxiv.org/abs/2011.11288) (Li et al. 2020)
+
 ## Tools and projects
+- [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
 - [Vegas](https://github.com/huawei-noah/vega): an AutoML algorithm tool chain by Huawei Noah's Arb Lab
