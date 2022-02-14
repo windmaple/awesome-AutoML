@@ -29,8 +29,8 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2022)
 - [Neural Architecture Search for Energy Efficient Always-on Audio Models](https://arxiv.org/abs/2202.05397) (Speckhard et al. 2022)
-- [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
 - [KNAS: Green Neural Architecture Search](https://arxiv.org/abs/2111.13293) (Xu et al. 2021)
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668) (So et al. 2021)
 - [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/abs/2105.14444) (Xu et al. 2021)
@@ -201,6 +201,9 @@ There are many kinds of AutoML, including:
 - [AutoGL: A Library for Automated Graph Learning](https://arxiv.org/abs/2104.04987) (Guan et al. 2021)
 - [AutoGraph: Automated Graph Neural Network](https://arxiv.org/abs/2011.11288) (Li et al. 2020)
 
+### Quantum computing
+- [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
+- 
 ## Tools and projects
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
