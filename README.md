@@ -271,6 +271,7 @@ There are many kinds of AutoML, including:
 - [SigOpt](https://sigopt.com/)
 - [mljar.com](https://mljar.com)
 - [Weights and Biases](https://wandb.ai/site/sweeps)
+- [Qeexo AutoML](https://qeexo.com/)
 
 ## Blog posts
 - [Improved On-Device ML on Pixel 6, with Neural Architecture Search](https://ai.googleblog.com/2021/11/improved-on-device-ml-on-pixel-6-with.html)
