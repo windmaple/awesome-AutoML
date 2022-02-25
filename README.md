@@ -159,6 +159,9 @@ There are many kinds of AutoML, including:
 ### AutoDropout
 - [AutoDropout: Learning Dropout Patterns to Regularize Deep Networks](https://arxiv.org/abs/2101.01761) (Pham et al. 2020)
 
+### AutoDistill
+- [AutoDistill: an End-to-End Framework to Explore and Distill Hardware-Efficient Language Models](https://arxiv.org/abs/2201.08539) (Zhang et al. 2022)
+
 ### Learning to learn/Meta-learning
 - [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/abs/1910.01215) (Song et al. 2019)
 - [Learning to Learn with Gradients](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.html) (Chelsea Finn PhD disseration 2018)
