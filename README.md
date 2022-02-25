@@ -265,6 +265,7 @@ There are many kinds of AutoML, including:
 - [OpenML AutoML benchmarking framework](https://openml.github.io/automlbenchmark/automl_overview.html)
 
 ## Commercial products
+- [Abacus.AI](https://abacus.ai/): Effortlessly Embed Cutting-Edge AI Into Your Apps
 - [Syne Tune](https://github.com/awslabs/syne-tune): state-of-the-art distributed hyperparameter optimizers (HPO)
 - [Amazon SageMaker AutoPilot](https://aws.amazon.com/sagemaker/autopilot/)
 - [Google Cloud AutoML](https://cloud.google.com/automl/) 
@@ -303,6 +304,7 @@ There are many kinds of AutoML, including:
 - [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action)- A book that introduces autoML with AutoKreas and Keras Tuner
 
 ## Competitions, workshops and conferences
+- [AutoML-Conf 2022](https://automl.cc/)
 - [NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning](http://automl.chalearn.org/)
 - [AutoML Workshop in ICML](https://www.ml4aad.org/workshops/)
 
