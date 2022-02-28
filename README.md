@@ -132,8 +132,6 @@ There are many kinds of AutoML, including:
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559) (Liu et al. 2017)
 - [AdaNet: Adaptive Structural Learning of Artificial Neural Networks](https://arxiv.org/abs/1607.01097) (Cortes et al. 2017)
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) (Zoph et al. 2017)
-- [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) (Baker et al. 2016) 
-- [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) (Zoph and Le. 2016)
 
 ### Federated Neural Architecture Search
 - [Federated Neural Architecture Search](https://arxiv.org/abs/2002.06352) (Xu et al 2020)
@@ -211,6 +209,8 @@ There are many kinds of AutoML, including:
 
 ### Reinforcement learning
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916) (Parker-Holder et al. 2022)
+- [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) (Baker et al. 2016) 
+- [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578) (Zoph and Le. 2016)
 
 ### Graph neural network
 - [AutoGL: A Library for Automated Graph Learning](https://arxiv.org/abs/2104.04987) (Guan et al. 2021)
