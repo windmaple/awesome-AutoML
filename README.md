@@ -188,6 +188,18 @@ There are many kinds of AutoML, including:
 - [Deep Feature Synthesis: Towards Automating Data Science Endeavors](https://dai.lids.mit.edu/wp-content/uploads/2017/10/DSAA_DSM_2015.pdf) (Kanter et al. 2017)
 - [ExploreKit: Automatic Feature Generation and Selection](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf) (Katz et al. 2016)
 
+### Recommendation systems
+- [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/abs/2002.11252) (Zhao et al. 2021)
+- [AutoDim: Field-aware Embedding Dimension Searchin Recommender Systems](https://dl.acm.org/doi/10.1145/3442381.3450124) (Zhao et al. 2021)
+- [Learnable Embedding Sizes for Recommender Systems](https://arxiv.org/abs/2101.07577) (Liu et al. 2021)
+- [AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System](https://arxiv.org/abs/2006.05933) (Zhao et al. 2021)
+- [AIM: Automatic Interaction Machine for Click-Through Rate Prediction](https://arxiv.org/abs/2111.03318) (Zhu et al. 2021)
+- [Towards Automated Neural Interaction Discovery for Click-Through Rate Prediction](https://arxiv.org/abs/2007.06434) (Song et al. 2020)
+- [AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://arxiv.org/abs/2003.11235) (Liu et al. 2020)
+- [AutoFeature: Searching for Feature Interactions and Their Architectures for Click-through Rate Prediction](https://dl.acm.org/doi/10.1145/3340531.3411912) (Khawar et al. 2020)
+- [AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction](https://dl.acm.org/doi/abs/10.1145/3397271.3401082) (Liu et al. 2020)
+- [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/abs/1907.04471) (Joglekar et al. 2019)
+
 ### Model compression
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) (He et al. 2018)
 
