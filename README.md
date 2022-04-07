@@ -189,7 +189,7 @@ There are many kinds of AutoML, including:
 
 ### Recommendation systems
 - [AutoML for Deep Recommender Systems: A Survey](https://arxiv.org/abs/2203.13922) (Zheng et al. 2022)
-- [Automated Machine Learning for Deep Recommender Systems: A Survey](Chen et al. 2022)
+- [Automated Machine Learning for Deep Recommender Systems: A Survey](https://arxiv.org/abs/2204.01390) (Chen et al. 2022)
 - [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/abs/2002.11252) (Zhao et al. 2021)
 - [AutoDim: Field-aware Embedding Dimension Searchin Recommender Systems](https://dl.acm.org/doi/10.1145/3442381.3450124) (Zhao et al. 2021)
 - [Learnable Embedding Sizes for Recommender Systems](https://arxiv.org/abs/2101.07577) (Liu et al. 2021)
