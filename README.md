@@ -29,6 +29,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [Resource-Constrained Neural Architecture Search on Tabular Datasets](https://arxiv.org/abs/2204.07615) (Yang et al. 2022)
 - [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2022)
 - [Neural Architecture Search for Energy Efficient Always-on Audio Models](https://arxiv.org/abs/2202.05397) (Speckhard et al. 2022)
 - [KNAS: Green Neural Architecture Search](https://arxiv.org/abs/2111.13293) (Xu et al. 2021)
