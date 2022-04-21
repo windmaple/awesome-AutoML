@@ -56,6 +56,7 @@ There are many kinds of AutoML, including:
 - [Few-shot Neural Architecture Search](https://arxiv.org/abs/2006.06863) (Zhao et al. 2020)
 - [Efficient Neural Architecture Search via Proximal Iterations](https://arxiv.org/abs/1905.13577) (Yao et al. 2020)
 - [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/abs/2010.15821) (Peng et al. 2020)
+- [How Does Supernet Help in Neural Architecture Search?](https://arxiv.org/abs/2010.08219) (Zhang et al. 2020)
 - [CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending](https://arxiv.org/abs/2007.12147) (Xu et al. 2020)
 - [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://arxiv.org/abs/2006.08509) (Wang et al. 2020)
 - [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf) (Lin et al. 2020)
@@ -222,6 +223,7 @@ There are many kinds of AutoML, including:
 
 ### Quantum computing
 - [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
+- [Differentiable Quantum Architecture Search](https://arxiv.org/abs/2010.08561) (Zhang et al. 2020)
 
 ## Tools and projects
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
