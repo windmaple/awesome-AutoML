@@ -226,6 +226,10 @@ There are many kinds of AutoML, including:
 - [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
 - [Differentiable Quantum Architecture Search](https://arxiv.org/abs/2010.08561) (Zhang et al. 2020)
 
+
+### Prompt search
+- [Neural Prompt Search](https://arxiv.org/abs/2206.04673) (Zhang et al. 2022)
+
 ## Tools and projects
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
