@@ -232,6 +232,7 @@ There are many kinds of AutoML, including:
 
 ## Tools and projects
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
+- [MLBox](https://github.com/AxeldeRomblay/MLBox): a powerful Automated Machine Learning python library
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
 - [Vegas](https://github.com/huawei-noah/vega): an AutoML algorithm tool chain by Huawei Noah's Arb Lab
