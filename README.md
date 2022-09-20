@@ -302,6 +302,7 @@ There are many kinds of AutoML, including:
 - [Qeexo AutoML](https://qeexo.com/)
 
 ## Blog posts
+- [AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist](https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl)
 - [Improved On-Device ML on Pixel 6, with Neural Architecture Search](https://ai.googleblog.com/2021/11/improved-on-device-ml-on-pixel-6-with.html)
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
 - [How we use AutoML, Multi-task learning and Multi-tower models for Pinterest Ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e)
