@@ -232,6 +232,7 @@ There are many kinds of AutoML, including:
 - [Neural Prompt Search](https://arxiv.org/abs/2206.04673) (Zhang et al. 2022)
 
 ## Tools and projects
+- [AutoDL](https://github.com/DeepWisdom/AutoDL): automated deep learning
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): a powerful Automated Machine Learning python library
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
