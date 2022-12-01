@@ -305,6 +305,7 @@ There are many kinds of AutoML, including:
 - [Qeexo AutoML](https://qeexo.com/)
 
 ## Blog posts
+- [Efficient Multi-Objective Neural Architecture Search with Ax](https://pytorch.org/blog/effective-multi-objective-nueral-architecture/)
 - [AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist](https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl)
 - [Improved On-Device ML on Pixel 6, with Neural Architecture Search](https://ai.googleblog.com/2021/11/improved-on-device-ml-on-pixel-6-with.html)
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
