@@ -233,6 +233,7 @@ There are many kinds of AutoML, including:
 - [Neural Prompt Search](https://arxiv.org/abs/2206.04673) (Zhang et al. 2022)
 
 ## Tools and projects
+- [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
 - [AutoDL](https://github.com/DeepWisdom/AutoDL): automated deep learning
 - [AutoGL](https://github.com/THUMNLab/AutoGL): An autoML framework & toolkit for machine learning on graphs
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): a powerful Automated Machine Learning python library
