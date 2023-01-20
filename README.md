@@ -230,6 +230,7 @@ There are many kinds of AutoML, including:
 
 
 ### Prompt search
+- [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) (Zhou et al. 2022)
 - [Neural Prompt Search](https://arxiv.org/abs/2206.04673) (Zhang et al. 2022)
 - [AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) (Shin et al. 2020)
 
