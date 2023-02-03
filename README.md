@@ -34,7 +34,7 @@ There are many kinds of AutoML, including:
 - [Searching for Efficient Neural Architectures for On-Device ML on Edge TPUs](https://arxiv.org/abs/2204.14007) (Akin et al. 2022)
 - [Resource-Constrained Neural Architecture Search on Tabular Datasets](https://arxiv.org/abs/2204.07615) (Yang et al. 2022)
 - [Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/abs/2102.05610) (Li et al. 2022)
-- [towards the co-design of neural networks and accelerators](https://proceedings.mlsys.org/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf) (Zhou et al. 2022)
+- [Towards the co-design of neural networks and accelerators](https://proceedings.mlsys.org/paper/2022/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf) (Zhou et al. 2022)
 - [Neural Architecture Search for Energy Efficient Always-on Audio Models](https://arxiv.org/abs/2202.05397) (Speckhard et al. 2022)
 - [KNAS: Green Neural Architecture Search](https://arxiv.org/abs/2111.13293) (Xu et al. 2021)
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668) (So et al. 2021)
