@@ -147,6 +147,7 @@ There are many kinds of AutoML, including:
 - [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) (Ying et al. 2019) - [code](https://github.com/google-research/nasbench)
 
 ### Neural Optimizatizer Search
+- [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675?utm_source=substack&utm_medium=email) (Chen et al. 2017)
 - [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (Bello et al. 2017)
 
 ### Activation function Search
