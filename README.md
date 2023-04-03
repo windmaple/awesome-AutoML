@@ -217,7 +217,7 @@ There are many kinds of AutoML, including:
 - [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](https://arxiv.org/abs/1811.08886) (Wang et al. 2018)
 
 ### Tech to speech
-- [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) (Luo et al. 2023)
+- [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) (Luo et al. 2021)
 
 ### Bandits
 - [AutoML for Contextual Bandits](https://arxiv.org/abs/1909.03212) (Dutta et al. 2019)
