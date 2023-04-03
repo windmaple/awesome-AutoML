@@ -216,6 +216,9 @@ There are many kinds of AutoML, including:
 ### Quantization
 - [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](https://arxiv.org/abs/1811.08886) (Wang et al. 2018)
 
+### Tech to speech
+- [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) (Luo et al. 2023)
+
 ### Bandits
 - [AutoML for Contextual Bandits](https://arxiv.org/abs/1909.03212) (Dutta et al. 2019)
 
@@ -231,7 +234,6 @@ There are many kinds of AutoML, including:
 ### Quantum computing
 - [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/pdf/2107.10845.pdf) (Wang et al. 2022)
 - [Differentiable Quantum Architecture Search](https://arxiv.org/abs/2010.08561) (Zhang et al. 2020)
-
 
 ### Prompt search
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) (Zhou et al. 2022)
