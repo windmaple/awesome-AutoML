@@ -248,6 +248,7 @@ There are many kinds of AutoML, including:
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): a powerful Automated Machine Learning python library
 - [FLAML](https://github.com/microsoft/FLAML): Fast and lightweight AutoML ([paper](https://www.microsoft.com/en-us/research/publication/flaml-a-fast-and-lightweight-automl-library/))
 - [Hypernets](https://github.com/DataCanvasIO/Hypernets): A General Automated Machine Learning Framework
+- [Cooka](https://github.com/DataCanvasIO/Cooka): a lightweight and visualization toolkit
 - [Vegas](https://github.com/huawei-noah/vega): an AutoML algorithm tool chain by Huawei Noah's Arb Lab
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI): an AutoML library written in Scala that runs on top of Apache Spark
 - [Model Search](https://github.com/google/model_search): a framework that implements AutoML algorithms for model architecture search at scale
