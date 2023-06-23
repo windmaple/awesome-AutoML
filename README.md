@@ -241,6 +241,7 @@ There are many kinds of AutoML, including:
 - [AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) (Shin et al. 2020)
 
 ## Tools and projects
+- [Aim](https://github.com/aimhubio/aim): An easy-to-use & supercharged open-source AI metadata tracker
 - [Falcon](https://github.com/OKUA1/falcon): A Lightweight AutoML Library
 - [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
 - [AutoDL](https://github.com/DeepWisdom/AutoDL): automated deep learning
