@@ -241,6 +241,9 @@ There are many kinds of AutoML, including:
 - [Neural Prompt Search](https://arxiv.org/abs/2206.04673) (Zhang et al. 2022)
 - [AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) (Shin et al. 2020)
 
+### LLM
+- [15 times Faster than Llama 2: Introducing DeciLM – NAS-Generated LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/) (Deci Research 2023)
+
 ## Tools and projects
 - [Falcon](https://github.com/OKUA1/falcon): A Lightweight AutoML Library
 - [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
