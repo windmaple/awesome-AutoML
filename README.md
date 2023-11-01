@@ -338,6 +338,10 @@ There are many kinds of AutoML, including:
 - [Using Machine Learning to Explore Neural Network Architecture](https://ai.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 - [Machine Learning Hyperparameter Optimization with Argo](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
 
+## Courses
+- [EfficientML.ai Lecture 7 - Neural Architecture Search (Part I) (MIT 6.5940, Fall 2023)](https://www.youtube.com/watch?v=gFi29IEHRGc)
+- [EfficientML.ai Lecture 8 - Neural Architecture Search (Part II) (MIT 6.5940, Fall 2023)(https://www.youtube.com/watch?v=EFpGQoDQ7JI)
+
 ## Presentations
 - [ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks](https://www.youtube.com/watch?v=g6HiuEnbwJE) by Evolving AI Lab
 - [Automatic Machine Learning](https://videoken.com/embed/5A4xbv5nd8c) by Frank Hutter and Joaquin Vanschoren
