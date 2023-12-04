@@ -198,6 +198,7 @@ There are many kinds of AutoML, including:
 - [ExploreKit: Automatic Feature Generation and Selection](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf) (Katz et al. 2016)
 
 ### Recommendation systems
+- [Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale](https://arxiv.org/abs/2311.08430) (Wen et al. 2023)
 - [AutoML for Deep Recommender Systems: A Survey](https://arxiv.org/abs/2203.13922) (Zheng et al. 2022)
 - [Automated Machine Learning for Deep Recommender Systems: A Survey](https://arxiv.org/abs/2204.01390) (Chen et al. 2022)
 - [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/abs/2002.11252) (Zhao et al. 2021)
