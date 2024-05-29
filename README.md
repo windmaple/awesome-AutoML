@@ -243,6 +243,7 @@ There are many kinds of AutoML, including:
 - [AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) (Shin et al. 2020)
 
 ### LLM
+- [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](https://arxiv.org/abs/2405.18377) (Sarah et al. 2024)
 - [15 times Faster than Llama 2: Introducing DeciLM – NAS-Generated LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/) (Deci Research 2023)
 
 ## Tools and projects
