@@ -251,6 +251,7 @@ There are many kinds of AutoML, including:
 
 ## Tools and projects
 - [Karpathy's autosearch](https://github.com/karpathy/autoresearch): use coding agents to optimize nanochat training
+- [Google DeepMind Simply](https://github.com/google-deepmind/simply): Minimal Code for Frontier LLM Research in JAX
 - [Falcon](https://github.com/OKUA1/falcon): A Lightweight AutoML Library
 - [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
 - [AutoDL](https://github.com/DeepWisdom/AutoDL): automated deep learning
