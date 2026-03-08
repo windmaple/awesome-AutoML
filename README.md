@@ -250,6 +250,7 @@ There are many kinds of AutoML, including:
 - [15 times Faster than Llama 2: Introducing DeciLM – NAS-Generated LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/) (Deci Research 2023)
 
 ## Tools and projects
+- [Karpathy's autosearch](https://github.com/karpathy/autoresearch): use coding agents to optimize nanochat training
 - [Falcon](https://github.com/OKUA1/falcon): A Lightweight AutoML Library
 - [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
 - [AutoDL](https://github.com/DeepWisdom/AutoDL): automated deep learning
