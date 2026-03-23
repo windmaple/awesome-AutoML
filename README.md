@@ -309,6 +309,7 @@ There are many kinds of AutoML, including:
 - [Archai](https://github.com/microsoft/archai): a platform for Neural Network Search (NAS) that allows you to generate efficient deep networks for your applications
 - [autoBOT](https://github.com/SkBlaz/autobot): An autoML system for automated text classification exploiting representation evolution
 - [autoai](https://github.com/blobcity/autoai): A framework to find the best performing AI/ML model for any AI problem
+- [neuropt](https://github.com/loevlie/neuropt): LLM-guided hyperparameter optimization and Neural Architecture Search — the LLM reads per-epoch training curves and designs the next experiment. 
  
 ## Benchmarks
 - [OpenML AutoML benchmarking framework](https://openml.github.io/automlbenchmark/automl_overview.html)
