@@ -252,6 +252,8 @@ There are many kinds of AutoML, including:
 
 ## Tools and projects
 - [Karpathy's autosearch](https://github.com/karpathy/autoresearch): use coding agents to optimize nanochat training
+- [AIDE](https://github.com/WecoAI/aideml): ML-engineering agent that uses tree search to optimize training code against an eval metric — human-level on Kaggle/MLE-bench
+- [weco-cli](https://github.com/WecoAI/weco-cli): CLI that runs autoresearch — iteratively rewrites GPU kernels, ML models, or prompts and keeps only changes that improve a chosen metric
 - [Google DeepMind Simply](https://github.com/google-deepmind/simply): Minimal Code for Frontier LLM Research in JAX
 - [Falcon](https://github.com/OKUA1/falcon): A Lightweight AutoML Library
 - [MindWare](https://github.com/PKU-DAIR/mindware): Efficient Open-source AutoML System
@@ -331,6 +333,7 @@ There are many kinds of AutoML, including:
 - [Qeexo AutoML](https://qeexo.com/)
 
 ## Blog posts
+- [AutoResearch vs Classical Hyperparameter Tuning](https://weco.ai/blog/autoresearch-vs-classical-hpo)
 - [YOLO-NAS by Deci Achieves State-of-the-Art Performance on Object Detection Using Neural Architecture Search](https://deci.ai/blog/yolo-nas-object-detection-foundation-model/)
 - [Efficient Multi-Objective Neural Architecture Search with Ax](https://pytorch.org/blog/effective-multi-objective-nueral-architecture/)
 - [AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist](https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl)
@@ -374,3 +377,4 @@ There are many kinds of AutoML, including:
 
 # Practical applications
 - [AutoML: Automating the design of machine learning models for autonomous driving](https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a) by Waymo
+- [Optimizing a production fraud-detection pipeline with autoresearch](https://weco.ai/blog/autoresearch-fraud-detection-pipeline) by Weco AI
