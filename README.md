@@ -183,6 +183,7 @@ There are many kinds of AutoML, including:
 - [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (Duan et al. 2016)
 
 ### Hyperparameter optimization
+- [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://jmlr.org/papers/v27/23-0359.html) (Fang et al. 2026)
 - [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](http://ai.googleblog.com/2022/08/optformer-towards-universal.html) (Chen et al. 2022)
 - [Frugal Optimization for Cost-related Hyperparameters](https://arxiv.org/abs/2005.01571) (Qingyun Wu, Chi Wang, Silu Huang. AAAI 2021)
 - [Economical Hyperparameter Optimization With Blended Search Strategy](https://www.microsoft.com/en-us/research/publication/economical-hyperparameter-optimization-with-blended-search-strategy/) (Chi Wang, Qingyun Wu, Silu Huang, Amin Saied. ICLR 2021)
